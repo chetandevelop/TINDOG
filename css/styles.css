@@ -77,17 +77,18 @@ p{
 /* Title Section */
 
 #title .container-fluid{
-    padding: 3% 15% 7%;
+    padding: 3% 13% 7%;
     text-align: left;
+    	
 }
 
 /* Title Image */
 
 .title-image{
-    width: 30%;
+    width: 40%;
     transform: rotate(25deg);
     position: absolute;
-    right: 20%;
+    right: 16%;
         
 }
 
